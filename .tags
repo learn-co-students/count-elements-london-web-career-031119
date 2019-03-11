@@ -1,0 +1,17 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Learn.co Educational Content License	/Users/manon/Development/code/count-elements-london-web-career-031119/LICENSE.md	/^#Learn.co Educational Content License$/;"	function	line:1
+Iteration and Building Hashes: Element Count	/Users/manon/Development/code/count-elements-london-web-career-031119/README.md	/^# Iteration and Building Hashes: Element Count$/;"	function	line:1
+Objectives	/Users/manon/Development/code/count-elements-london-web-career-031119/README.md	/^## Objectives$/;"	function	line:3
+Instructions	/Users/manon/Development/code/count-elements-london-web-career-031119/README.md	/^## Instructions$/;"	function	line:8
+=> {'tortoise' => 3, 'aye-aye' => 2, 'honey badger' => 1}	/Users/manon/Development/code/count-elements-london-web-career-031119/README.md	/^# => {'tortoise' => 3, 'aye-aye' => 2, 'honey badger' => 1}$/;"	function	line:17
+Tips:	/Users/manon/Development/code/count-elements-london-web-career-031119/README.md	/^#### Tips:$/;"	function	line:20
+Contributing to Learn.co Curriculum	/Users/manon/Development/code/count-elements-london-web-career-031119/CONTRIBUTING.md	/^# Contributing to Learn.co Curriculum$/;"	function	line:1
+Raising an Issue to Encourage a Contribution	/Users/manon/Development/code/count-elements-london-web-career-031119/CONTRIBUTING.md	/^## Raising an Issue to Encourage a Contribution$/;"	function	line:5
+Submitting a Pull Request to Suggest an Improvement	/Users/manon/Development/code/count-elements-london-web-career-031119/CONTRIBUTING.md	/^## Submitting a Pull Request to Suggest an Improvement$/;"	function	line:13
+Why Contribute?	/Users/manon/Development/code/count-elements-london-web-career-031119/CONTRIBUTING.md	/^# Why Contribute?$/;"	function	line:25
+count_elements	/Users/manon/Development/code/count-elements-london-web-career-031119/count_elements.rb	/^def count_elements(array)$/;"	method	line:1
